@@ -52,6 +52,6 @@ npm install
 et lancez l'application avec npm run dev
 puis affichez la page au sein de votre navigateur web avec l'URL http://localhost:5173/
 
-##Board
+## Board
 Pour installer le programme, il vous faut flash votre board. A la racine du dossier board, faites :
 make -j4 flash
