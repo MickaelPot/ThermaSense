@@ -76,9 +76,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'therma_sense',
-        'USER':'mickael',
-        #'PASSWORD':'micka38',
-        'PASSWORD':'Aurelie_74000',
+        'USER':'xxxx',
+        'PASSWORD':'xxxx',
         'HOST':'localhost',  
         'PORT':'3306'
     }
